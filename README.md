@@ -1,2 +1,2 @@
-# codespace2
+# codespace
 Demo Codespace
